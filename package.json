@@ -11,6 +11,7 @@
   "author": "iyisakuma",
   "license": "ISC",
   "dependencies": {
+    "fastify": "^4.26.2",
     "typescript": "^5.4.5"
   },
   "devDependencies": {
