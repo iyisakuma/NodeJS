@@ -11,8 +11,11 @@
   "author": "iyisakuma",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^20.12.8",
     "fastify": "^4.26.2",
-    "typescript": "^5.4.5"
+    "fs": "^0.0.1-security",
+    "typescript": "^5.4.5",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "tsup": "^8.0.2",
